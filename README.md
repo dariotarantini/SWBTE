@@ -2,7 +2,7 @@
 ServerLess Web Based Text Editor (SWBTE) 
 
 ## Usage  
-`CTRL + S`: Save the code  
+`CTRL + S`   Save the code  
 ## Code  
 Copy and paste this code in your browser:  
 ```
